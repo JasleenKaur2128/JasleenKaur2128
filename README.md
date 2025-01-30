@@ -15,12 +15,6 @@ Welcome to my GitHub profile! I'm passionate about creating clean, efficient, an
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📈 **GitHub Stats**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ---
 
 ## 📫 **Let's Connect!**
